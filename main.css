@@ -39,7 +39,11 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
+<<<<<<< HEAD
   background-image: url('Image_Folder/hero_photo.JPG');
+=======
+  background-image: url('Image_Folder/hero_photo.JPG'); 
+>>>>>>> d056b836d4ba28903189232b36752f707745967f
   /*crop it later*/
   background-size: cover;
   color: #ffffff;
@@ -104,8 +108,12 @@ footer ul {
 footer li img {
   width: 32px;
   height: 32px;
+<<<<<<< HEAD
 }
 
 .image-size {
   width: 800px;
 }
+=======
+}
+>>>>>>> d056b836d4ba28903189232b36752f707745967f
